@@ -14,10 +14,5 @@ Soy un apasionado desarrollador con experiencia en Java y su framework Quarkus, 
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo web y tecnologías relacionadas.
 - 😄 ¡Amo resolver problemas y crear soluciones innovadoras!
 
-## Estadísticas de GitHub
-
-![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=devmrodriguez&custom_title=Estadísticas&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=devmrodriguez&custom_title=Lenguajes%20de%20programaci%C3%B3n&theme=dark#gh-dark-mode-only)](https://github.com/devmrodriguez/github-readme-stats)
-
 
 ¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. Siéntete libre de explorar mis repositorios y dejarme comentarios o sugerencias. ¡Hagamos del mundo un lugar mejor a través del código! 😄🚀
