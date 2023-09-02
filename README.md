@@ -15,4 +15,4 @@ Soy un apasionado desarrollador con experiencia en Java y su framework Quarkus, 
 - 😄 ¡Amo resolver problemas y crear soluciones innovadoras!
 
 
-¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. Siéntete libre de explorar mis repositorios y dejarme comentarios o sugerencias. ¡Hagamos del mundo un lugar mejor a través del código! 😄🚀
+¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. Siéntete libre de explorar mis repositorios y dejarme comentarios o sugerencias. ¡Hagamos del mundo un lugar mejor a través del código! 😄🚀 
