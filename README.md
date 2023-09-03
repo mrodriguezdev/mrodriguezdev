@@ -3,7 +3,7 @@
 ## Sobre mí
 
 ```js
-const devmrodriguez = {
+const mrodriguezdev = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, Quarkus],
 }
