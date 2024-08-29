@@ -4,16 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=false&width=435&lines=Self-taught+Back-End+Developer%2C;Systems+Engineer%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs...+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
 - A passionate Self-taught Back-End developer
-- Personal website [mrodriguezdev](https://www.mrodriguezdev.me)
+- Personal website [mrodriguezdev](https://www.mrodriguez.tech)
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <b> Skills</b>
 <br>
 
 <p align="center">
@@ -21,7 +21,6 @@
 - **Languages**:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
@@ -80,7 +79,7 @@
 </a>
 </div>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-rodríguez-guzmán)
