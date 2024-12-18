@@ -9,7 +9,7 @@
 <br>
 
 - A passionate Self-taught Back-End developer
-- Personal website [mrodriguezdev](https://www.mrodriguez.tech)
+- Personal website [mrodrigueztech](https://www.mrodriguez.tech)
 
 <br>
 
